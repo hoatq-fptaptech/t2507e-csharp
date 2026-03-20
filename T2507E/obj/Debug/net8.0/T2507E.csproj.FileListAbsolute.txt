@@ -1,0 +1,14 @@
+/Users/quanghoatrinh/Documents/Aptech/SEM2/T2507E/T2507E_CSharp/T2507E/T2507E/bin/Debug/net8.0/T2507E
+/Users/quanghoatrinh/Documents/Aptech/SEM2/T2507E/T2507E_CSharp/T2507E/T2507E/bin/Debug/net8.0/T2507E.deps.json
+/Users/quanghoatrinh/Documents/Aptech/SEM2/T2507E/T2507E_CSharp/T2507E/T2507E/bin/Debug/net8.0/T2507E.runtimeconfig.json
+/Users/quanghoatrinh/Documents/Aptech/SEM2/T2507E/T2507E_CSharp/T2507E/T2507E/bin/Debug/net8.0/T2507E.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM2/T2507E/T2507E_CSharp/T2507E/T2507E/bin/Debug/net8.0/T2507E.pdb
+/Users/quanghoatrinh/Documents/Aptech/SEM2/T2507E/T2507E_CSharp/T2507E/T2507E/obj/Debug/net8.0/T2507E.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quanghoatrinh/Documents/Aptech/SEM2/T2507E/T2507E_CSharp/T2507E/T2507E/obj/Debug/net8.0/T2507E.AssemblyInfoInputs.cache
+/Users/quanghoatrinh/Documents/Aptech/SEM2/T2507E/T2507E_CSharp/T2507E/T2507E/obj/Debug/net8.0/T2507E.AssemblyInfo.cs
+/Users/quanghoatrinh/Documents/Aptech/SEM2/T2507E/T2507E_CSharp/T2507E/T2507E/obj/Debug/net8.0/T2507E.csproj.CoreCompileInputs.cache
+/Users/quanghoatrinh/Documents/Aptech/SEM2/T2507E/T2507E_CSharp/T2507E/T2507E/obj/Debug/net8.0/T2507E.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM2/T2507E/T2507E_CSharp/T2507E/T2507E/obj/Debug/net8.0/refint/T2507E.dll
+/Users/quanghoatrinh/Documents/Aptech/SEM2/T2507E/T2507E_CSharp/T2507E/T2507E/obj/Debug/net8.0/T2507E.pdb
+/Users/quanghoatrinh/Documents/Aptech/SEM2/T2507E/T2507E_CSharp/T2507E/T2507E/obj/Debug/net8.0/T2507E.genruntimeconfig.cache
+/Users/quanghoatrinh/Documents/Aptech/SEM2/T2507E/T2507E_CSharp/T2507E/T2507E/obj/Debug/net8.0/ref/T2507E.dll
