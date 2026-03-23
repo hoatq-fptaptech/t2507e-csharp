@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using T2507E.session1;
+using T2507E.session2;
 
 Console.WriteLine("Hello, World!");
 int x = 10;
@@ -24,3 +25,4 @@ var d = new Demo1("Huy",19){Telephone = "0987654321"};
 var v = new Demo1{Telephone = "0987654321"};
 d.Print();
 v.Print();
+var b = new Bus{Color = "Blue",Brand = "Toyota"};
