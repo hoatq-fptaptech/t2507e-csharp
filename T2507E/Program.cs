@@ -2,6 +2,7 @@
 
 using T2507E.session1;
 using T2507E.session2;
+using T2507E.session3;
 
 Console.WriteLine("Hello, World!");
 int x = 10;
@@ -26,3 +27,7 @@ var v = new Demo1{Telephone = "0987654321"};
 d.Print();
 v.Print();
 var b = new Bus{Color = "Blue",Brand = "Toyota"};
+var g = new Tiger();
+g[0] = "Kitty";
+g[1] = "Garfield";
+Console.WriteLine(g[0]);

@@ -19,11 +19,11 @@ public class Demo1
   public string Name
   {
      get{ return name; }
-     set{ name = value; }
+     // set{ name = value; }
   }
   public int Age
   {
-     get => age;
+     // get => age;
      set => age = value;
   }
   // abstract propeties
