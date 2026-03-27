@@ -1,33 +1,24 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using T2507E.session4;
 
-using T2507E.session1;
-using T2507E.session2;
-using T2507E.session3;
+var d = new Demo1();
+var g = new PrintMessage(d.SayHello);
+var h = new PrintMessage(Demo1.Goodbye);
 
-Console.WriteLine("Hello, World!");
-int x = 10;
-string y = "T2507E";
-var z = 3.14;
-var t = "ABC";
-Console.WriteLine(z);
-Console.WriteLine(t);
-List<int> arr = new List<int>();
-arr.Add(10);
-arr.Add(20);
-arr[0] = 10;
-arr[1] = 20;
-Console.WriteLine(arr[0]);
-Console.WriteLine(arr[1]);
-foreach (var item in arr)
+g("T2507E"); // d.SayHello("T2507E");
+h("Nguyen Van A"); // Demo1.Goodbye("Nguyen Van A");
+
+g+= Demo1.Goodbye;
+g+= d.SayHello;
+g+=h;
+
+g("FPT APTECH");
+
+PrintMessage t = msg =>
 {
-    Console.WriteLine(item);
-}
-var d = new Demo1("Huy",19){Telephone = "0987654321"};
-var v = new Demo1{Telephone = "0987654321"};
-d.Print();
-v.Print();
-var b = new Bus{Color = "Blue",Brand = "Toyota"};
-var g = new Tiger();
-g[0] = "Kitty";
-g[1] = "Garfield";
-Console.WriteLine(g[0]);
+    Console.WriteLine($"Anonymous {msg}");
+};
+t("XYZ");
+
+var btn = new Button();
+btn.OnClick(Demo1.Goodbye);
+btn.Clicked("Button was Clicked");
